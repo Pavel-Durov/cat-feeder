@@ -1,2 +1,2 @@
-C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\CatFeedeer.Core.csproj;x86
-C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.UWP\CatFeedeer.UWP.csproj;x86
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\CatFeedeer.Core.csproj;neutral
+C:\VC\GIT\cat-feeder\CatFeedeer.UWP\CatFeedeer.UWP.csproj;x86

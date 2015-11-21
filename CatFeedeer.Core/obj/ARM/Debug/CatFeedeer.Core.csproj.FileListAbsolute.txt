@@ -1,0 +1,16 @@
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\bin\ARM\Debug\CatFeedeer.Core.dll
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\bin\ARM\Debug\CatFeedeer.Core.pdb
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\bin\ARM\Debug\CatFeedeer.Core.pri
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\CatFeedeer.Core.dll
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\CatFeedeer.Core.pdb
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\priconfig.xml
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\priconfig.xml.intermediate
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\layout.resfiles
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\layout.resfiles.intermediate
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\resources.resfiles
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\resources.resfiles.intermediate
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\pri.resfiles
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\pri.resfiles.intermediate
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\qualifiers.txt
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,2 @@
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\CatFeedeer.Core.csproj;arm
+C:\VC\GIT\cat-feeder\CatFeedeer.UWP\CatFeedeer.UWP.csproj;arm

@@ -108,6 +108,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="FeedingPrograms\Base\FeedingProgram.cs" />
+    <Compile Include="FeedingPrograms\CustomFeedingProgram.cs" />
+    <Compile Include="FeedingPrograms\DietFeedingProgram.cs" />
+    <Compile Include="FeedingPrograms\RegularFeedingProgram.cs" />
+    <Compile Include="Services\FoodCalculationService.cs" />
+    <Compile Include="Services\FoodManagerService.cs" />
+    <Compile Include="Services\PhisicalBoardService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\FirstViewModel.cs" />
     <Content Include="Properties\CatFeedeer.Core.rd.xml" />
@@ -117,6 +124,7 @@
       <Name>Windows IoT Extensions for the UWP</Name>
     </SDKReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
