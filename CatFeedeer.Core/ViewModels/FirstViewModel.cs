@@ -11,9 +11,13 @@ namespace CatFeedeer.Core.ViewModels
     {
         public FirstViewModel()
         {
-           
+            test();
         }
 
+        private void test()
+        {
+           
+        }
 
         protected override void InitFromBundle(IMvxBundle parameters)
         {

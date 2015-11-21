@@ -12,6 +12,12 @@ namespace CatFeedeer.Core.Services
         public PhisicalBoardService()
         {
             _gpioController = Windows.Devices.Gpio.GpioController.GetDefault();
+            Init();
+        }
+
+        private void Init()
+        {
+           
         }
 
         GpioController _gpioController;
