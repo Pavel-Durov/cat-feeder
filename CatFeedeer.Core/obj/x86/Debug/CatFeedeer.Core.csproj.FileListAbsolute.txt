@@ -1,0 +1,17 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\bin\x86\Debug\CatFeedeer.Core.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\bin\x86\Debug\CatFeedeer.Core.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\bin\x86\Debug\CatFeedeer.Core.pri
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\CatFeedeer.Core.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\CatFeedeer.Core.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\CatFeedeer.Core.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\priconfig.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\layout.resfiles
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\resources.resfiles
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\pri.resfiles
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\qualifiers.txt
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,2 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.Core\CatFeedeer.Core.csproj;x86
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\CatFeedeer\CatFeedeer.UWP\CatFeedeer.UWP.csproj;x86
