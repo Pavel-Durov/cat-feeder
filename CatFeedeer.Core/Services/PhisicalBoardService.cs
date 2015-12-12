@@ -7,6 +7,10 @@ using Windows.Devices.Gpio;
 
 namespace CatFeedeer.Core.Services
 {
+    /// <summary>
+    /// Importnt notes - Constants region defines pins interface - make sure you did connected right the pins...
+    /// 
+    /// </summary>
     class PhisicalBoardService
     {
         public PhisicalBoardService()
@@ -17,25 +21,39 @@ namespace CatFeedeer.Core.Services
 
         private void Init()
         {
-           
+
         }
+
 
         GpioController _gpioController;
 
-        #region ACTIVE PINS
+        GpioPin _pin;
 
-        public const int MOTOR_PIN = 10;
+        #region Constants
+
+        /// <summary>
+        /// In current application,the assumption id that food enguine is connected to high voltage,
+        /// and contrled by realy board accordingly to defined pin
+        /// </summary>
+        public const int FOOD_ENGINE_PIN = 21;
 
         #endregion
 
-
-        public void SignalPin(int pinId, GpioPinValue value, GpioPinDriveMode mode = GpioPinDriveMode.Output)
+        public void SignalOutputPin(int pinId, bool binaryState)
         {
-            var pin = _gpioController.OpenPin(pinId);
-            pin.Write(value);
-            pin.SetDriveMode(mode);
+            GpioPinValue value = binaryState ? GpioPinValue.High : GpioPinValue.Low;
+            SignalOutputPin(pinId, value);
         }
 
-        ///....
+        public void SignalOutputPin(int pinId, GpioPinValue value)
+        {
+            if (_pin == null)
+            {
+                _pin = _gpioController.OpenPin(pinId);
+                _pin.SetDriveMode(GpioPinDriveMode.Output);
+            }
+
+            _pin.Write(value);     
+        }
     }
 }

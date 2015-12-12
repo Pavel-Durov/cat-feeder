@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="Constants\GpioConst.cs" />
     <Compile Include="FeedingPrograms\Base\FeedingProgram.cs" />
     <Compile Include="FeedingPrograms\CustomFeedingProgram.cs" />
     <Compile Include="FeedingPrograms\DietFeedingProgram.cs" />

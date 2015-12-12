@@ -14,3 +14,4 @@ C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\pri.resfiles.intermediate
 C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\qualifiers.txt
 C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\qualifiers.txt.intermediate
 C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\VC\GIT\cat-feeder\CatFeedeer.Core\obj\ARM\Debug\CatFeedeer.Core.csprojResolveAssemblyReference.cache

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Cirrious.CrossCore;
 
 namespace CatFeedeer.Core.Services
 {
@@ -10,9 +6,21 @@ namespace CatFeedeer.Core.Services
     {
         public FoodManagerService()
         {
-
+            _boardService = Mvx.Resolve<PhisicalBoardService>();
         }
 
+        #region 
+
+        PhisicalBoardService _boardService;
+
+        #endregion
+
+
+
+        public void TurnFoodEngine(bool state)
+        {
+            _boardService.SignalOutputPin(PhisicalBoardService.FOOD_ENGINE_PIN, state);
+        }
 
 
     }
