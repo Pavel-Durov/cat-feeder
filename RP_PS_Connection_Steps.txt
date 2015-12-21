@@ -1,0 +1,6 @@
+http://ms-iot.github.io/content/en-US/win10/samples/PowerShell.htm
+
+1. Run PowerShell a Administrator
+2. Run >> net start WinRM
+3. Start Session >> 
+	Enter-PSSession -ComputerName 10.0.0.4 -Credential 10.0.0.1\Administrator

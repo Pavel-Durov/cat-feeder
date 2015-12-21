@@ -1,0 +1,23 @@
+http://ms-iot.github.io/content/en-US/win10/samples/PowerShell.htm
+
+>>  Start Powershell as Admin!!
+
+1)	Start WinRM Service
+	net start WinRM
+
+2)	Add item as Trusted
+	Set-Item WSMan:\localhost\Client\TrustedHosts -Value 10.0.0.1
+
+3)	Start a session (default password : "p@ssw0rd" )
+	Enter-PSSession -ComputerName 10.0.0.1 -Credential localhost\Administrator
+
+4)	Set New Password
+	net user Administrator [new password]
+
+5)	Set device name
+	setcomputername <new-name>
+6)	Reboot
+	shutdown /r /t 0
+
+7)	Reset Item as trusted
+	Set-Item WSMan:\localhost\Client\TrustedHosts -Value pavel-pi
