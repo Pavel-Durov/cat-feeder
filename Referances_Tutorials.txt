@@ -1,0 +1,3 @@
+
+
+a. Connect photoResistor to GPIO 4 and

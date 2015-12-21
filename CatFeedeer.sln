@@ -9,7 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFeedeer.Core", "CatFeede
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "snippets", "snippets", "{7B1A4961-34AC-4590-BCEE-2DC12A00DED8}"
 	ProjectSection(SolutionItems) = preProject
+		My_Rp_Credentials.txt = My_Rp_Credentials.txt
 		RP_PS_Connection_Steps.txt = RP_PS_Connection_Steps.txt
+		RP_PS_First_Configurations.txt = RP_PS_First_Configurations.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RP_schemas", "RP_schemas", "{92D0597C-981C-4BF5-86AA-589AFBAED731}"
+	ProjectSection(SolutionItems) = preProject
+		Photoresistor_Schema.txt = Photoresistor_Schema.txt
 	EndProjectSection
 EndProject
 Global
@@ -63,5 +70,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92D0597C-981C-4BF5-86AA-589AFBAED731} = {7B1A4961-34AC-4590-BCEE-2DC12A00DED8}
 	EndGlobalSection
 EndGlobal
